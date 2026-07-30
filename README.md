@@ -145,3 +145,11 @@ AI-powered fraud detection platform built for small and medium e-commerce busine
 ---
 
 > *"Building technology that protects businesses, not just software that processes transactions."*
+## Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwananth17/vishwananth17/output/github-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vishwananth17/vishwananth17/output/github-snake.svg">
+  </picture>
+</p>
