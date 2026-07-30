@@ -84,7 +84,6 @@
 </p>
 
 ---
-# Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vishwananth17/vishwananth17/output/github-snake-dark.svg" alt="Snake Animation"/>
