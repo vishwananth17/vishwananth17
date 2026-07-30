@@ -48,7 +48,7 @@ Key Features:
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- LinkedIn: https://www.linkedin.com/in/vishwananthb
 - GitHub: https://github.com/vishwananth17
 
 Building products that solve real-world problems through AI.
