@@ -83,22 +83,6 @@
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwananth17&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwananth17&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
