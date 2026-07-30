@@ -74,58 +74,44 @@
 - Git & GitHub
 
 ---
-
-# GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwananth17&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwananth17&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwananth17&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwananth17&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# GitHub Streak
+## GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vishwananth17&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=vishwananth17&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishwananth17&theme=algolia&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwananth17&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# Contribution Graph
+## Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwananth17&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwananth17&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# Snake Animation
+## Snake Animation
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/vishwananth17/vishwananth17/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+  <img src="https://raw.githubusercontent.com/vishwananth17/vishwananth17/output/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
----
 
 # Quote
 
