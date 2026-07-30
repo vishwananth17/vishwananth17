@@ -1,54 +1,147 @@
-# Hi, I'm Vishwananth BS
+<h1 align="center">Hi, I'm Vishwananth BS</h1>
+<h3 align="center">AI Engineer • Founder of FlowShield AI • Computer Science Student</h3>
 
-AI Engineer | SaaS Founder | Computer Science Student
+<p align="center">
+Building AI-powered SaaS products for secure online commerce.
+</p>
 
-I'm building **FlowShield AI**, an AI-powered fraud detection platform that helps e-commerce merchants detect fraudulent transactions in real time.
+<p align="center">
+<a href="https://readme-typing-svg.herokuapp.com">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Founder+of+FlowShield+AI;AI+%7C+Machine+Learning+%7C+Cloud;Building+Real-Time+Fraud+Detection;Hackathon+Builder;Always+Learning+New+Technologies" />
+</a>
+</p>
+
+---
 
 ## About Me
 
-- Founder of FlowShield AI
-- Interested in Artificial Intelligence, Machine Learning, and Cloud Engineering
-- Passionate about building real-world SaaS products
-- Always learning and experimenting with new technologies
+- Founder of **FlowShield AI**
+- Building an AI-powered fraud detection platform for e-commerce
+- Computer Science Engineering Student
+- Passionate about AI, Cloud, Machine Learning & Data Engineering
+- Building production-ready SaaS applications
+- Looking to collaborate on AI startups and open-source projects
+
+---
 
 ## Tech Stack
 
-- Python
-- FastAPI
-- Java
-- SQL
-- PostgreSQL
-- Redis
-- XGBoost
-- Isolation Forest
-- AWS
-- Docker
-- Git & GitHub
+### Languages
 
-## Current Project
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### FlowShield AI
+### AI & Backend
 
-An AI-powered fraud detection platform for e-commerce businesses.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-Key Features:
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# Featured Project
+
+## FlowShield AI
+
+AI-powered fraud detection platform built for small and medium e-commerce businesses.
+
+### Features
+
 - Real-time fraud detection
-- AI risk scoring
-- Live analytics dashboard
-- Transaction monitoring
-- Chargeback prevention
-- Shopify and payment gateway integrations
+- AI Risk Score
+- Merchant Dashboard
+- Transaction Monitoring
+- Behaviour Analysis
+- API Integration
+- Live Analytics
+- Explainable AI
 
-## Currently Learning
+---
 
+# Current Focus
+
+- Building FlowShield AI
 - AI Agents
+- Machine Learning
 - MLOps
-- Cloud Security
-- Advanced Machine Learning
+- Cloud Infrastructure
+- Startup Growth
 
-## Connect
+---
 
-- LinkedIn: https://www.linkedin.com/in/vishwananthb
-- GitHub: https://github.com/vishwananth17
+# GitHub Stats
 
-Building products that solve real-world problems through AI.
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwananth17&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwananth17&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vishwananth17&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwananth17&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishwananth17&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vishwananthb">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/vishwananth17">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://x.com/BsVishwananth">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="mailto:bsvishwananth@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+> *"Building technology that protects businesses, not just software that processes transactions."*
